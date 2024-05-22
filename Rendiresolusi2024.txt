@@ -1,1 +1,3 @@
-Catatan
+target frontend
+- membuat kerangka dengan testruktur
+- membuat tampilan yang cantik
